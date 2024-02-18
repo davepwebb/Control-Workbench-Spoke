@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="DW Control Workbench API Endpoints">77722370975446107671f91de053af45</decision_table>
+        <label>CWB API Endpoint: https://icf-service-dk1914-b.ukp1f.paas.intranet.db.com/icf/saveEvent</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 15:11:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c436b70975446107671f91de053af33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CWB API Endpoint: https://icf-service-dk1914-b.ukp1f.paas.intranet.db.com/icf/saveEvent</sys_name>
+        <sys_package display_value="DW Control Workbench Spoke" source="f4b3db7897d046107671f91de053af04">f4b3db7897d046107671f91de053af04</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DW Control Workbench Spoke">f4b3db7897d046107671f91de053af04</sys_scope>
+        <sys_update_name>sys_decision_multi_result_0c436b70975446107671f91de053af33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 15:11:41</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=0c436b70975446107671f91de053af33"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>0c436b70975446107671f91de053af33</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 15:11:41</sys_created_on>
+        <sys_id>c8436bb0975446107671f91de053aff7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 15:11:41</sys_updated_on>
+        <value>https://icf-service-dk1914-b.ukp1f.paas.intranet.db.com/icf/saveEvent</value>
+        <variable display_value="CWB API Endpoint">73336ffc971446107671f91de053af1e</variable>
+    </sys_variable_value>
+</record_update>
